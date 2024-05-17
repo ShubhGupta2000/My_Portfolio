@@ -253,3 +253,17 @@
 .about__content-details-para strong {
   color: rgb(200, 18, 18);
 }
+
+.blog-item {
+  margin: 20px;
+  font-family: "Fira Sans", sans-serif;
+}
+
+.Blog-container h1 {
+  font-family: "Fira Sans", sans-serif;
+  margin: 18px;
+}
+
+.blog-item p {
+  font-family: "Source Code Pro", monospace;
+}
